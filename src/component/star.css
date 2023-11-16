@@ -1,0 +1,7 @@
+.star{
+    display: flex;
+    justify-content: space-between; 
+    width: 15px; 
+    height: 15px; 
+    
+}
